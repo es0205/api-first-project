@@ -1,3 +1,0 @@
-E:\שנה ב\API\WEB-API\WEB-API\wwwroot\home.html
-E:\שנה ב\API\WEB-API\WEB-API\wwwroot\home.js
-E:\שנה ב\API\WEB-API\WEB-API\wwwroot\update.html

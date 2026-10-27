@@ -84,8 +84,6 @@ E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\scopedcss\bundle\WEB-API.styles.css
-E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\mtcc0rs9i8-by43gs3ldt.gz
-E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\ho4dc6hdi6-hxsg0slx8u.gz
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\z48bs08gm0-27jiy1dncz.gz
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\5hwe6hse11-3dmdmzpt1u.gz
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\staticwebassets.build.json
@@ -95,3 +93,9 @@ E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\staticwebassets.build.endpoints
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\WEB-API.genruntimeconfig.cache
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\ref\WEB-API.dll
+E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\WEB-API.sourcelink.json
+E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\WEB-API.csproj.AssemblyReference.cache
+E:\שנה ב\API\WEBAPI\WEB-API\bin\Debug\net9.0\zxcvbn-core.dll
+E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\WEB-API.csproj.Up2Date
+E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\mtcc0rs9i8-y80pprx73v.gz
+E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\ho4dc6hdi6-qvgqghu2wv.gz
