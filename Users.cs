@@ -2,6 +2,10 @@
 
 namespace WEB_API
 {
+    //This class holds one user, so User is a clearer name than Users.
+    //In C#, public properties are written in PascalCase (UserName, FirstName, LastName, Password, Id).
+    //If you rename them, User.txt still has the old names, so read it with
+    //new JsonSerializerOptions { PropertyNameCaseInsensitive = true }
     public class Users
     {
         [Required]
@@ -18,6 +22,8 @@ namespace WEB_API
         public int id { get; set; }
 
     }
+    //In C#, each class goes in its own file, named after the class: UserLog.cs.
+    //A full name is clearer, for example LoginUser
     public class UserLog
     {
         [Required]
