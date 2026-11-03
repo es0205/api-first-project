@@ -1,0 +1,98 @@
+M:\WEB-API\WEB-API\bin\Debug\net10.0\appsettings.Development.json
+M:\WEB-API\WEB-API\bin\Debug\net10.0\appsettings.json
+M:\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.staticwebassets.runtime.json
+M:\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.staticwebassets.endpoints.json
+M:\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.exe
+M:\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.deps.json
+M:\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.runtimeconfig.json
+M:\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.dll
+M:\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.pdb
+M:\WEB-API\WEB-API\obj\Debug\net10.0\rpswa.dswa.cache.json
+M:\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.GeneratedMSBuildEditorConfig.editorconfig
+M:\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.AssemblyInfoInputs.cache
+M:\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.AssemblyInfo.cs
+M:\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.csproj.CoreCompileInputs.cache
+M:\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.MvcApplicationPartsAssemblyInfo.cache
+M:\WEB-API\WEB-API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+M:\WEB-API\WEB-API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+M:\WEB-API\WEB-API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+M:\WEB-API\WEB-API\obj\Debug\net10.0\scopedcss\bundle\WEB-API.styles.css
+M:\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.json
+M:\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.json.cache
+M:\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.development.json
+M:\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+M:\WEB-API\WEB-API\obj\Debug\net10.0\swae.build.ex.cache
+M:\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+M:\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.dll
+M:\WEB-API\WEB-API\obj\Debug\net10.0\refint\WEB-API.dll
+M:\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.pdb
+M:\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.genruntimeconfig.cache
+M:\WEB-API\WEB-API\obj\Debug\net10.0\ref\WEB-API.dll
+M:\WEB-API\WEB-API\obj\Debug\net10.0\compressed\l3og9w4rax-{0}-6wxmsjr8e2-6wxmsjr8e2.gz
+M:\WEB-API\WEB-API\obj\Debug\net10.0\compressed\zshiokendf-{0}-jwo9wkryk6-jwo9wkryk6.gz
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\appsettings.Development.json
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\appsettings.json
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.staticwebassets.runtime.json
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.staticwebassets.endpoints.json
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.exe
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.deps.json
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.runtimeconfig.json
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.dll
+E:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.pdb
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.AssemblyInfoInputs.cache
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.AssemblyInfo.cs
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.csproj.CoreCompileInputs.cache
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.MvcApplicationPartsAssemblyInfo.cache
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\scopedcss\bundle\WEB-API.styles.css
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\compressed\l3og9w4rax-{0}-6wxmsjr8e2-6wxmsjr8e2.gz
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\compressed\zshiokendf-{0}-fu2cvucqs1-fu2cvucqs1.gz
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.json
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.development.json
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\swae.build.ex.cache
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.dll
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\refint\WEB-API.dll
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.pdb
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.genruntimeconfig.cache
+E:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\ref\WEB-API.dll
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\appsettings.Development.json
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\appsettings.json
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.staticwebassets.endpoints.json
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.staticwebassets.runtime.json
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.exe
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.deps.json
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.runtimeconfig.json
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.dll
+F:\שנה ב\API\WEB-API\WEB-API\bin\Debug\net10.0\WEB-API.pdb
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.GeneratedMSBuildEditorConfig.editorconfig
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.AssemblyInfoInputs.cache
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.AssemblyInfo.cs
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.csproj.CoreCompileInputs.cache
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.MvcApplicationPartsAssemblyInfo.cache
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\scopedcss\bundle\WEB-API.styles.css
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.json
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.development.json
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\swae.build.ex.cache
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.dll
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\refint\WEB-API.dll
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.pdb
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\WEB-API.genruntimeconfig.cache
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\ref\WEB-API.dll
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\compressed\l3og9w4rax-{0}-by43gs3ldt-by43gs3ldt.gz
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\compressed\zshiokendf-{0}-hxsg0slx8u-hxsg0slx8u.gz
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\compressed\apc95gcwmv-{0}-27jiy1dncz-27jiy1dncz.gz
+F:\שנה ב\API\WEB-API\WEB-API\obj\Debug\net10.0\compressed\insyvg4jkr-{0}-3dmdmzpt1u-3dmdmzpt1u.gz
