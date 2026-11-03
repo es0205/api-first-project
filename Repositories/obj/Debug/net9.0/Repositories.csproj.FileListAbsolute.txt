@@ -1,0 +1,15 @@
+E:\שנה ב\API\WEBAPI\Repositories\bin\Debug\net9.0\Repositories.deps.json
+E:\שנה ב\API\WEBAPI\Repositories\bin\Debug\net9.0\Repositories.dll
+E:\שנה ב\API\WEBAPI\Repositories\bin\Debug\net9.0\Repositories.pdb
+E:\שנה ב\API\WEBAPI\Repositories\bin\Debug\net9.0\Entities.dll
+E:\שנה ב\API\WEBAPI\Repositories\bin\Debug\net9.0\Entities.pdb
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.dll
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.pdb
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\ref\Repositories.dll

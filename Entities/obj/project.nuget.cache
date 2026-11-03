@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUISpO9uDp4=",
+  "success": true,
+  "projectFilePath": "E:\\שנה ב\\API\\WEBAPI\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\zxcvbn-core\\7.0.92\\zxcvbn-core.7.0.92.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+E:\שנה ב\API\WEBAPI\Entities\bin\Debug\net9.0\Entities.deps.json
+E:\שנה ב\API\WEBAPI\Entities\bin\Debug\net9.0\Entities.dll
+E:\שנה ב\API\WEBAPI\Entities\bin\Debug\net9.0\Entities.pdb
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\Entities.dll
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\refint\Entities.dll
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\Entities.pdb
+E:\שנה ב\API\WEBAPI\Entities\obj\Debug\net9.0\ref\Entities.dll

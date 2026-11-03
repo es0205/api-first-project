@@ -1,0 +1,17 @@
+E:\שנה ב\API\WEBAPI\services\bin\Debug\net9.0\services.deps.json
+E:\שנה ב\API\WEBAPI\services\bin\Debug\net9.0\services.dll
+E:\שנה ב\API\WEBAPI\services\bin\Debug\net9.0\services.pdb
+E:\שנה ב\API\WEBAPI\services\bin\Debug\net9.0\Entities.dll
+E:\שנה ב\API\WEBAPI\services\bin\Debug\net9.0\Repositories.dll
+E:\שנה ב\API\WEBAPI\services\bin\Debug\net9.0\Repositories.pdb
+E:\שנה ב\API\WEBAPI\services\bin\Debug\net9.0\Entities.pdb
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\services.csproj.AssemblyReference.cache
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\services.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\services.AssemblyInfoInputs.cache
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\services.AssemblyInfo.cs
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\services.csproj.CoreCompileInputs.cache
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\services.csproj.Up2Date
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\services.dll
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\refint\services.dll
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\services.pdb
+E:\שנה ב\API\WEBAPI\services\obj\Debug\net9.0\ref\services.dll
