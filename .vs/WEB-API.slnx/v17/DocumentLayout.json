@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\web-api\\controllers\\passwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|solutionrelative:web-api\\controllers\\passwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CD95B0E-5247-482A-8FA7-6E1388638303}|services\\services.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\services\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD95B0E-5247-482A-8FA7-6E1388638303}|services\\services.csproj|solutionrelative:services\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\web-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|solutionrelative:web-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\web-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|solutionrelative:web-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\web-api\\controllers\\passwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|solutionrelative:web-api\\controllers\\passwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CD95B0E-5247-482A-8FA7-6E1388638303}|services\\services.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +23,16 @@
       "RelativeMoniker": "D:0:0:{5CD95B0E-5247-482A-8FA7-6E1388638303}|services\\services.csproj|solutionrelative:services\\passwordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\web-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D53CF-42F9-95EB-E948-DA8F8A0599B2}|WEB-API\\WEB-API.csproj|solutionrelative:web-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{588302BB-0A09-4251-92A2-4CD51D556AB9}|Repositories\\Repositories.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{588302BB-0A09-4251-92A2-4CD51D556AB9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588302BB-0A09-4251-92A2-4CD51D556AB9}|Repositories\\Repositories.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{588302BB-0A09-4251-92A2-4CD51D556AB9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{588302BB-0A09-4251-92A2-4CD51D556AB9}|Repositories\\Repositories.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\api\\webapi\\repositories\\user.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -50,53 +62,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.txt",
-              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\User.txt",
-              "RelativeDocumentMoniker": "Repositories\\User.txt",
-              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\User.txt",
-              "RelativeToolTip": "Repositories\\User.txt",
+              "DocumentIndex": 7,
+              "Title": "Repositories",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-11-03T17:59:35.84Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T19:05:25.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "services.csproj",
-              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\services\\services.csproj",
-              "RelativeDocumentMoniker": "services\\services.csproj",
-              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\services\\services.csproj",
-              "RelativeToolTip": "services\\services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-03T16:51:38.956Z"
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Program.cs",
+              "RelativeDocumentMoniker": "WEB-API\\Program.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Program.cs",
+              "RelativeToolTip": "WEB-API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:00:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Services\\IUsersService.cs",
+              "RelativeDocumentMoniker": "Services\\IUsersService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Services\\IUsersService.cs",
+              "RelativeToolTip": "Services\\IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T18:59:59.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordsController.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Controllers\\PasswordsController.cs",
+              "RelativeDocumentMoniker": "WEB-API\\Controllers\\PasswordsController.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Controllers\\PasswordsController.cs",
+              "RelativeToolTip": "WEB-API\\Controllers\\PasswordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:23:35.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "Services\\UsersService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Services\\UsersService.cs",
+              "RelativeToolTip": "Services\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:20:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:11:33.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WEB-API\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WEB-API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:25:55.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PasswordsService.cs",
               "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Services\\PasswordsService.cs",
               "RelativeDocumentMoniker": "Services\\PasswordsService.cs",
               "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Services\\PasswordsService.cs",
               "RelativeToolTip": "Services\\PasswordsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-03T16:23:09.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "WEB-API.csproj",
               "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\WEB-API.csproj",
               "RelativeDocumentMoniker": "WEB-API\\WEB-API.csproj",
@@ -104,50 +186,37 @@
               "RelativeToolTip": "WEB-API\\WEB-API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-03T16:50:16.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PasswordsController.cs",
-              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Controllers\\PasswordsController.cs",
-              "RelativeDocumentMoniker": "WEB-API\\Controllers\\PasswordsController.cs",
-              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Controllers\\PasswordsController.cs",
-              "RelativeToolTip": "WEB-API\\Controllers\\PasswordsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T16:23:35.509Z",
+              "WhenOpened": "2026-11-03T16:50:16.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersService.cs",
-              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Services\\UsersService.cs",
-              "RelativeDocumentMoniker": "Services\\UsersService.cs",
-              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Services\\UsersService.cs",
-              "RelativeToolTip": "Services\\UsersService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T16:20:17.859Z",
+              "DocumentIndex": 12,
+              "Title": "services.csproj",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\services\\services.csproj",
+              "RelativeDocumentMoniker": "services\\services.csproj",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\services\\services.csproj",
+              "RelativeToolTip": "services\\services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-03T16:51:38.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WEB-API\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\WEB-API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WEB-API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T16:25:55.331Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "User.txt",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\User.txt",
+              "RelativeDocumentMoniker": "Repositories\\User.txt",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\User.txt",
+              "RelativeToolTip": "Repositories\\User.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-03T17:59:35.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserLog.cs",
               "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Entities\\UserLog.cs",
               "RelativeDocumentMoniker": "Entities\\UserLog.cs",
@@ -155,12 +224,11 @@
               "RelativeToolTip": "Entities\\UserLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T16:13:31.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T16:13:31.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
@@ -168,21 +236,7 @@
               "RelativeToolTip": "Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T16:12:21.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\API\\WEBAPI\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T16:11:33.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T16:12:21.991Z"
             }
           ]
         }

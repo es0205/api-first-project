@@ -13,3 +13,4 @@ E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.dll
 E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\refint\Repositories.dll
 E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.pdb
 E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+E:\שנה ב\API\WEBAPI\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json

@@ -3,7 +3,7 @@ using System.Text.Json;
 
 namespace Repositories
 {
-    public class UserRepository
+    public class UserRepository : IUserRepository
     {
         public User AddUser(User user)
         {
