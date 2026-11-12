@@ -3,16 +3,17 @@ using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Services;
 using System.Text.Json;
+using Zxcvbn;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
 
 namespace WEB_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-
     public class UserController : ControllerBase
     {
+        PasswordsService ps = new PasswordsService();
         IUsersService _usersService;
         public UserController(IUsersService usersService)
         {
@@ -34,9 +35,17 @@ namespace WEB_API.Controllers
         [HttpPost]
         public ActionResult<User> Post([FromBody] User user)
         {
-            user=_usersService.AddUser(user);
+            var result = ps.EvaluatePassword(user.password);
+
+            if (result.IsValid == false)
+            {
+                return BadRequest(result);
+            }
+                        user=_usersService.AddUser(user);
             return CreatedAtAction(nameof(Get),new { id = user.id },user);
+
         }
+        
 
         [HttpPost("Login")]
 
@@ -48,6 +57,7 @@ namespace WEB_API.Controllers
                 return NotFound();
             }
 
+           
             return Ok(user);
         }
 
@@ -55,7 +65,13 @@ namespace WEB_API.Controllers
         [HttpPut("{id}")]
         public IActionResult Put(int id, [FromBody] User userToUpdate)
         {
-          _usersService.UpdateUser(id, userToUpdate);
+            var result = ps.EvaluatePassword(userToUpdate.password);
+
+            if (result.IsValid == false)
+            {
+                return BadRequest(result);
+            }
+            _usersService.UpdateUser(id, userToUpdate);
             return Ok();
         }
 

@@ -85,7 +85,6 @@ E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\scopedcss\bundle\WEB-API.styles.css
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\z48bs08gm0-27jiy1dncz.gz
-E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\5hwe6hse11-3dmdmzpt1u.gz
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\staticwebassets.build.json
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\staticwebassets.build.json.cache
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\staticwebassets.development.json
@@ -97,7 +96,6 @@ E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\WEB-API.sourcelink.json
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\WEB-API.csproj.AssemblyReference.cache
 E:\שנה ב\API\WEBAPI\WEB-API\bin\Debug\net9.0\zxcvbn-core.dll
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\WEB-API.csproj.Up2Date
-E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\ho4dc6hdi6-qvgqghu2wv.gz
 E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\mtcc0rs9i8-5amz1f7ue3.gz
 E:\שנה ב\API\WEBAPI\WEB-API\bin\Debug\net9.0\Entities.dll
 E:\שנה ב\API\WEBAPI\WEB-API\bin\Debug\net9.0\Repositories.dll
@@ -105,3 +103,5 @@ E:\שנה ב\API\WEBAPI\WEB-API\bin\Debug\net9.0\services.dll
 E:\שנה ב\API\WEBAPI\WEB-API\bin\Debug\net9.0\Entities.pdb
 E:\שנה ב\API\WEBAPI\WEB-API\bin\Debug\net9.0\services.pdb
 E:\שנה ב\API\WEBAPI\WEB-API\bin\Debug\net9.0\Repositories.pdb
+E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\5hwe6hse11-oita1cmy69.gz
+E:\שנה ב\API\WEBAPI\WEB-API\obj\Debug\net9.0\compressed\ho4dc6hdi6-0tdxyxfr5n.gz
