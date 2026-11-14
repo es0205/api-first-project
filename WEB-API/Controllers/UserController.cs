@@ -13,6 +13,7 @@ namespace WEB_API.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
+        //Who creates this PasswordsService? With DI, the controller receives IPasswordsService in its constructor
         PasswordsService ps = new PasswordsService();
         IUsersService _usersService;
         public UserController(IUsersService usersService)
@@ -28,6 +29,7 @@ namespace WEB_API.Controllers
 
         // GET api/<User>/5
         [HttpGet("{id}")]
+        //Why does GET by id return a fixed text? The assignment asks it to read the user with this id from the file (or NotFound / NoContent)
         public string Get(int id)
         {
             return "something";
@@ -54,6 +56,7 @@ namespace WEB_API.Controllers
             var user= _usersService.GetUser(loginUser);
             if(user == null)
             {
+                //The assignment asks a wrong login to return NoContent() (204): what should this return?
                 return NotFound();
             }
 
