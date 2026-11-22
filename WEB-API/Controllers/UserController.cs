@@ -33,25 +33,25 @@ namespace WEB_API.Controllers
             return "something";
         }
         [HttpPost]
-        public ActionResult<User> Post([FromBody] User user)
+        public async Task<ActionResult<User>> Post([FromBody] User user)
         {
-            var result = ps.EvaluatePassword(user.password);
+            var result = ps.EvaluatePassword(user.Password);
 
             if (result.IsValid == false)
             {
                 return BadRequest(result);
             }
-                        user=_usersService.AddUser(user);
-            return CreatedAtAction(nameof(Get),new { id = user.id },user);
+                        await _usersService.AddUser(user);
+            return CreatedAtAction(nameof(Get),new { id = user.Id },user);
 
         }
         
 
         [HttpPost("Login")]
 
-        public ActionResult<UserLog> PostLog([FromBody] UserLog loginUser)
+        public async Task<ActionResult<UserLog>> PostLog([FromBody] UserLog loginUser)
         {
-            var user= _usersService.GetUser(loginUser);
+            var user= await _usersService.GetUser(loginUser);
             if(user == null)
             {
                 return NotFound();
@@ -63,15 +63,15 @@ namespace WEB_API.Controllers
 
         // PUT api/<User>/5
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] User userToUpdate)
+        public async Task<IActionResult> Put(int id, [FromBody] User userToUpdate)
         {
-            var result = ps.EvaluatePassword(userToUpdate.password);
+            var result = ps.EvaluatePassword(userToUpdate.Password);
 
             if (result.IsValid == false)
             {
                 return BadRequest(result);
             }
-            _usersService.UpdateUser(id, userToUpdate);
+            await _usersService.UpdateUser(id, userToUpdate);
             return Ok();
         }
 

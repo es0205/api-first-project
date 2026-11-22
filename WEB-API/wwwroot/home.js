@@ -54,7 +54,7 @@ const CheckPassword = async () => {
     const strengthView = document.querySelector(".passwordStrength");
     const result = zxcvbn(password);
     const score = result.score;
-    console.log("הציון שהתקבל הוא:", score); // תראי מה מודפס כשאת לוחצת על הכפתור
+    console.log("הציון שהתקבל הוא:", score); 
     strengthView.value = score;
 
     try {
