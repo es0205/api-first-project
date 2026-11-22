@@ -30,6 +30,7 @@ namespace Services
             var result = Core.EvaluatePassword(password);
             int score = result.Score;
 
+            //The assignment asks a weak password to get 400 (score below 3). Is 2 the right limit here? Should it be 3?
             if (score < 2)
             {
                 return new PasswordResult
