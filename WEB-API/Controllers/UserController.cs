@@ -13,9 +13,8 @@ namespace WEB_API.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        //Who creates this PasswordsService? With DI, the controller receives IPasswordsService in its constructor
         PasswordsService ps = new PasswordsService();
-        IUsersService _usersService;
+        private readonly IUsersService _usersService;
         public UserController(IUsersService usersService)
         {
             _usersService = usersService;
