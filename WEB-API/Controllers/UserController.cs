@@ -14,10 +14,13 @@ namespace WEB_API.Controllers
     public class UserController : ControllerBase
     {
         PasswordsService ps = new PasswordsService();
+        private readonly ILogger<UserController> _logger;
+
         private readonly IUsersService _usersService;
-        public UserController(IUsersService usersService)
+        public UserController(IUsersService usersService, ILogger<UserController> logger)
         {
             _usersService = usersService;
+            _logger = logger;
         }
         // GET: api/<User>
         [HttpGet]
@@ -43,6 +46,7 @@ namespace WEB_API.Controllers
                 return BadRequest(result);
             }
                         await _usersService.AddUser(user);
+
             return CreatedAtAction(nameof(Get),new { id = user.Id },user);
 
         }
@@ -55,11 +59,10 @@ namespace WEB_API.Controllers
             var user= await _usersService.GetUser(loginUser);
             if(user == null)
             {
-                //The assignment asks a wrong login to return NoContent() (204): what should this return?
                 return NotFound();
             }
 
-           
+            _logger.LogInformation($"User {user.UserName} logged in successfully. password:{loginUser.password}, first name:{user.FirstName}, last name:{user.LastName}");
             return Ok(user);
         }
 
